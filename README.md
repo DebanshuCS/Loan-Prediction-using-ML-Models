@@ -39,7 +39,7 @@ Random Forest
 1 variable to accommodate the loan ID.
 
 
-👉 The following is the structure of the data set :
+### 👉 The following is the structure of the data set :
 
 
 <img width="592" alt="Screenshot 2023-01-06 at 11 09 31 PM" src="https://user-images.githubusercontent.com/118846871/211069339-f37d2a30-c176-4794-89ca-bf26a37e56f2.png">
