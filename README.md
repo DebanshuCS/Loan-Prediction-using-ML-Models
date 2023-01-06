@@ -2,6 +2,7 @@
 # Loan prediction using Machine learning.
 
 ## Introduction 
+
 <img width="1059" alt="Screenshot 2023-01-06 at 10 54 58 PM" src="https://user-images.githubusercontent.com/118846871/211069305-44e680b2-58fd-4ab0-8df4-3a020751b4ae.png">
 
 
@@ -39,6 +40,8 @@ Random Forest
 
 
 👉 The following is the structure of the data set :
+
+
 <img width="592" alt="Screenshot 2023-01-06 at 11 09 31 PM" src="https://user-images.githubusercontent.com/118846871/211069339-f37d2a30-c176-4794-89ca-bf26a37e56f2.png">
 
 
