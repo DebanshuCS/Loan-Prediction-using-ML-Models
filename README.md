@@ -5,7 +5,11 @@
 
 <img width="1059" alt="Screenshot 2023-01-06 at 10 54 58 PM" src="https://user-images.githubusercontent.com/118846871/211069305-44e680b2-58fd-4ab0-8df4-3a020751b4ae.png">
 
+Please find my work in below mentioned DeepNote:
 
+<a href="https://deepnote.com/@debcs/Credit-Forecaster-f44f8e1b-c39d-4a9a-bd92-fb144cdef579" target="https://deepnote.com/@debcs/Credit-Forecaster-f44f8e1b-c39d-4a9a-bd92-fb144cdef579">DeepNote published</a>
+
+[a link]
 
 - During the online application process, the company seeks to automate (in real time) the loan qualification process based on the information entered by the customer. ML models will help the company predict loan approvals, thereby speeding up the decision-making process for determining whether or not an applicant is eligible for a loan.
 
